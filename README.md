@@ -54,3 +54,11 @@ You work in the online store " Streamchik ", which sells around the world comput
 
 ### Introduction to machine learning
 Mobile operator "Megaline" found out: many customers use archive tariffs. They want to build a system that can analyze customer behavior and offer users a new tariff: "Smart" or "Ultra".
+
+## Project_06
+
+### Обучение с учителем
+Из «Бета-Банка» стали уходить клиенты. Каждый месяц. Немного, но заметно. Банковские маркетологи посчитали: сохранять текущих клиентов дешевле, чем привлекать новых. Нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. Вам предоставлены исторические данные о поведении клиентов и расторжении договоров с банком.
+
+### Supervised learning
+"Beta-Bank" started leaving clients. Every month. A little, but noticeable. Banking marketers thought: it is cheaper to save current customers than to attract new ones. It is necessary to predict whether the client will leave the bank in the near future or not. You are provided with historical data on the behavior of clients and the termination of contracts
